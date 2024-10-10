@@ -1,7 +1,7 @@
 package whileDo;
 import javax.swing.JOptionPane;
 
-public class Principal {
+public class Atividade3 {
     public static void main(String[] args) {
         String entrada;
         do {
